@@ -1,0 +1,34 @@
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Service.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Service.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csproj.CopyComplete
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Service.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Service.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.DTO.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\AutoMapper.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.csproj.CopyComplete
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Service\obj\Debug\MovieStore.Service.pdb

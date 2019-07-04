@@ -1,0 +1,54 @@
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.exe.config
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.exe
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Service.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Service.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Form1.resources
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Properties.Resources.resources
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Users.NewUserForm.resources
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.GenerateResource.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.exe
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Users.EditUserForm.resources
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.exe.config
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.exe
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.WinUI.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.DTO.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Service.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Service.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\bin\Debug\AutoMapper.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Form1.resources
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Properties.Resources.resources
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Users.EditUserForm.resources
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.Users.NewUserForm.resources
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.csproj.CopyComplete
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.exe
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.WinUI\obj\Debug\MovieStore.WinUI.pdb

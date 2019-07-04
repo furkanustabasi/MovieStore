@@ -1,0 +1,24 @@
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.dll.config
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\MovieStore.Data.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.csproj.CopyComplete
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.Data\obj\Debug\MovieStore.Data.pdb

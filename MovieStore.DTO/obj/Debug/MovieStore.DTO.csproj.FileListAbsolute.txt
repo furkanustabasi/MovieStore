@@ -1,0 +1,12 @@
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\bin\Debug\MovieStore.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\bin\Debug\MovieStore.DTO.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\bin\Debug\MovieStore.DTO.pdb
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.dll
+C:\Users\Furkan\Desktop\MovieStore\MovieStore.DTO\obj\Debug\MovieStore.DTO.pdb

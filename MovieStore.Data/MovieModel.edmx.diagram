@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="024a472675e448d496f1045852612ac3" Name="Diagram1">
+        <EntityTypeShape EntityType="MovieStoreModel.Customer" Width="1.5" PointX="5.25" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.Genre" Width="1.5" PointX="6" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.MovieActor" Width="1.5" PointX="10.5" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.Movy" Width="1.5" PointX="8.25" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.RecordStatus" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.Rental" Width="1.5" PointX="13.5" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MovieStoreModel.User" Width="1.5" PointX="3" PointY="16.625" IsExpanded="true" />
+        <AssociationConnector Association="MovieStoreModel.FK_Customers_RecordStatuses" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Customers_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Rentals_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Movies_Genres" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_MovieActors_Movies" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Movies_RecordStatuses" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Movies_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Movies_Users1" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Movies_Users2" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Rentals_Movies" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Rentals_RecordStatuses" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Users_RecordStatuses" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Rentals_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="MovieStoreModel.FK_Users_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
